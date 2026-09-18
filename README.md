@@ -8,11 +8,11 @@
 - [سطوح دسترسی و نقش‌ها](./01-user-management/access-roles-permissions)
 - [مسدودی حساب](./01-user-management/account-blocking)
 - [دفترچه آدرس](./01-user-management/address-book)
-- [agency-branches](./01-user-management/agency-branches)
 - [ثبت‌نام و لاگین](./01-user-management/auth-registration)
 - [سیستم فلگ و گزارش](./01-user-management/flagging-system)
 - [احراز هویت (KYC)](./01-user-management/identity-verification)
 - [مدیریت پروفایل](./01-user-management/profile-management)
+- [نمایندگی‌](./01-user-management/representory)
 
 ### کاتالوگ کالا، تجهیز و پلنت (`02-product-catalog`)
 - [چرخه حیات ایجاد](./02-product-catalog/creation-lifecycle)
@@ -24,8 +24,8 @@
 - [واحدهای سنجش](./02-product-catalog/units-of-measure)
 
 ### کاتالوگ پروژه‌ (`03-project-catalog`)
+- [فیلدهای تخصصی](./03-project-catalog/fields)
 - [مشخصات فنی](./03-project-catalog/specifications)
-- [template-fields](./03-project-catalog/template-fields)
 
 ### آگهی‌ها (`04-ads`)
 - [شرایط تحویل](./04-ads/delivery-terms)
